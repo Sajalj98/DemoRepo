@@ -1,2 +1,2 @@
 # DemoRepo
-Greate Demo for coursera git course
+Update Greate Demo for coursera git course
